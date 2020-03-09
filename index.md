@@ -312,6 +312,8 @@ please preview your site before committing, and make sure to run
 {% include lc/setup.html %}
 {% endif %}
 
+<h2 id="setup">Video Conference Access</h2>
+
 Zoom Access: password required - password is: idaho_geo
 
 Topic: BCB 503 Geospatial Analysis Workshop
