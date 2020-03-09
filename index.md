@@ -311,3 +311,41 @@ please preview your site before committing, and make sure to run
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+
+Zoom Access: password required - password is: idaho_geo
+
+Topic: BCB 503 Geospatial Analysis Workshop
+
+Join Zoom Meeting
+https://uidaho.zoom.us/j/937557828?pwd=cFFndTM1QmltRGVaWmdIYU5FdWc1dz09
+
+Meeting ID: 937 557 828
+
+One tap mobile
++16699006833,,937557828# US (San Jose)
++16468769923,,937557828# US (New York)
+
+Dial by your location
+        +1 669 900 6833 US (San Jose)
+        +1 646 876 9923 US (New York)
+Meeting ID: 937 557 828
+Find your local number: https://uidaho.zoom.us/u/aoetXY48n
+
+Join by SIP
+937557828@zoomcrc.com
+
+Join by H.323
+162.255.37.11 (US West)
+162.255.36.11 (US East)
+221.122.88.195 (China)
+115.114.131.7 (India Mumbai)
+115.114.115.7 (India Hyderabad)
+213.19.144.110 (EMEA)
+103.122.166.55 (Australia)
+209.9.211.110 (Hong Kong)
+64.211.144.160 (Brazil)
+69.174.57.160 (Canada)
+207.226.132.110 (Japan)
+Meeting ID: 937 557 828
+Password: 036740
+
