@@ -201,7 +201,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop. Please note: we have a Uidaho survey that contains important logistical questions - then Data Carpentry wants you to complete a more demographic focused survey.  Please complete both.</p>
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">UIDAHO Pre-workshop Survey - complete by March 16th, 2020</a></p>
+<p><a href="https://docs.google.com/forms/d/1bpvkH3TbaHu62-zZxocTIi4XBAjhcPJIOjRcW_8FjAU/">UIDAHO Pre-workshop Survey - complete by March 16th, 2020</a></p>
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">DATA CARPENTRY Pre-workshop Survey</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">DATA CARPENTRY Post-workshop Survey</a></p>
 
