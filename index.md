@@ -310,6 +310,10 @@ please preview your site before committing, and make sure to run
 {% include lc/setup.html %}
 {% endif %}
 
+<h2 id="setup">Code Access</h2>
+
+We have created a streamlined github repository for each lesson's code.  The purpose of this repository is to give you a simple way of getting the code for each lesson, in a basic R file that can be used later.  So, please feel free to clone this repo and use in any way you'd like.  While we want to following along during the lesson and engaging, we also dont want you to worry that you have to type everything down, in order to preserve a file for your use later.  Just clone the repo after the workshop!  https://github.com/erichseamon/BCB503_geospatial_workshop
+
 <h2 id="setup">Video Conference Access</h2>
 
 This zoom conference information will be used for both days (April 23rd and 24th) - as well as the prepatory zoom testing, scheduled for Wednesday, April 22nd @ 1pm.  If you would like to test out your zoom settings in advance, please drop onto the call.
