@@ -315,6 +315,15 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Video Conference Access</h2>
 
+This zoom conference information will be used for both days (April 23rd and 24th) - as well as the prepatory zoom testing, scheduled for Wednesday, April 22nd @ 1pm.  If you would like to test out your zoom settings in advance, please drop onto the call.
+
+A few other zoom/video conferencing housekeeping issues: 
+
+1) If you can use a dual monitor setup, this will greatly assist you.
+2) If possible, make sure you have a webcam ergonomically set up level with your face, with your microphone close to you.
+3) Please leave your webcam on while interfacing with the workshop.  This is not a requirement.  We realize that you may have additional family or work/class committments that may require you to step away. However, while you are engaged in the workshop, try to have your webcam on!  It will be more fun and engaging! (If you can consider R and geospatial analysis fun!)
+4. We will try to leverage zoom as much as possible.  We are not going to use any other software, other than Rstudio and zoom.  However, we will be lecturing using the materials referenced above.  So - following along via your browser with the lesson we are going over will be helpful.  That means: Rstudio + zoom + web browser.  You can see why two monitors will be helpful if possible.
+
 Zoom Access: password required - password is: idaho_geo
 
 Topic: BCB 503 Geospatial Analysis Workshop
